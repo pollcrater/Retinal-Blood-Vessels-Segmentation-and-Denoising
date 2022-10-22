@@ -1,7 +1,8 @@
 
 #  A Morphological Hessian Based Approach for Retinal Blood Vessels Segmentation and Denoising Using Region-Based Otsu Thresholding
-##  TEAM MEMBERS:
 
+<!--
+##  TEAM MEMBERS:
 - Aravind Narayanan - 2019102014
 
 - Abhayram A Nair  - 2019102017
@@ -9,7 +10,7 @@
 - Hemant Suresh - 2019102017
 
 - Prayushi Mathur - 2021701034
-
+-->
 #  Goal of the project:
 
 The goal of this project is detection of retinal vasculature by using a morphological hessian-based approach and region-based Otsu thresholding.
